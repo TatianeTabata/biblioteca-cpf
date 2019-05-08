@@ -9,7 +9,7 @@ Abaixo, seguem instruções do validador.
 
 ```javascript
 
-$  npm install biblioteca-cpf
+$  npm install cpfvalidator-tatianetabata
 
 ```
 
