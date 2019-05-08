@@ -25,6 +25,9 @@ Obs: Exemplo acima de CPF válido.
 
 ## roadmap oficial do projeto
 
+### versão 2.0.1
+- atualização do readme.md
+
 ### versão 2.0.0
 - validação de espaços e refatoração do código
 
