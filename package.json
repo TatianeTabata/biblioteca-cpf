@@ -1,6 +1,6 @@
 {
   "name": "cpfvalidator-tatianetabata",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Validador de CPF",
   "main": "./lib/index.js",
   "scripts": {
