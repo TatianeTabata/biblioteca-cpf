@@ -17,13 +17,16 @@ $  npm install cpfvalidator-tatianetabata
 
 ```node
 
-> const validar = require("./lib/index");
+> const validar = require("cpfvalidator-tatianetabata");
 > console.log(validar.cpfValidator("22861056851"));
 
 ```
 Obs: Exemplo acima de CPF válido.
 
 ## roadmap oficial do projeto
+
+### versão 2.0.2
+- atualização do readme.md
 
 ### versão 2.0.1
 - atualização do readme.md
